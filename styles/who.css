@@ -21,20 +21,20 @@ width: 30%;
     padding: 0 4rem 0 8rem;
 }
 
-.who-subtitle {
+.subtitle {
     margin: 2rem 0;
     color: gray;
     font-weight: bold;
 }
 
-.who-title {
+.title {
     font-size: 2rem;
     margin-bottom: 2rem;
     
     font-weight: bold;
 }
 
-.who-title span {
+.title span {
     color: var(--bg-btn-color);
 }
 

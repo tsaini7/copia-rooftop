@@ -171,7 +171,7 @@ width: 90%;
     background-size: cover;
     box-shadow: rgb(2, 7, 22) 0px -50px 999999px 73px inset;
     opacity: 1;
-    padding: 4rem 0;
+    padding: 2.5rem 0;
 
 }
 .howitworks-principal{
@@ -182,7 +182,7 @@ width: 90%;
 
 }
 .howitworks-tittle {
-    margin: 1rem 0 4rem 0 ;
+    margin: 2rem 0 4rem 0 ;
     color: #Ffffff;
     font-size: 2rem;
 }

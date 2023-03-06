@@ -1,0 +1,44 @@
+.who {
+    display: flex;
+    margin-top: 8rem;
+    color: #28323c;
+}
+
+.who-izquierda {
+width: 30%;
+}
+
+.who-izquierda img {
+    max-width: 380px;
+    max-height: 384px;
+    margin-left: 6rem;
+}
+
+.who-derecha {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 0 4rem 0 8rem;
+}
+
+.who-subtitle {
+    margin: 2rem 0;
+    color: gray;
+    font-weight: bold;
+}
+
+.who-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    
+    font-weight: bold;
+}
+
+.who-title span {
+    color: var(--bg-btn-color);
+}
+
+.who-description {
+    line-height: 1.5;
+    padding-right: 3rem;
+}

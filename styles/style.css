@@ -21,9 +21,7 @@ body {
     justify-content:space-between;
     margin: 0 5rem 0 5rem;
 }
-.nav a img {
 
-}
 .nav-link {
     font-family: 'Poppins';
     color: var(--bg-btn-color);
@@ -39,9 +37,6 @@ body {
 
 /* INICIO BANNER PRINCIPAL (MAIN) */
 
-main {
-
-}
 .banner {
     display: flex;
     justify-content: center;

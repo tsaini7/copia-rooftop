@@ -75,7 +75,10 @@ width: 90%;
 .banner_izquierdo p span {
     font-weight: bold;
 }
-
+.banner_izquierdo p a{
+    color: #ff6107;
+    font-weight: bold;
+}
 
 #apply {
     color: grey;

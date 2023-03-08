@@ -1,0 +1,67 @@
+.ecosystem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(157deg, rgb(224, 224, 224) 0%, rgb(255, 255, 255) 50%, rgb(224, 224, 224) 100%);
+    margin: 3rem 0 3rem 0;
+    padding-bottom: 2rem;
+}
+
+.ecosystem-titles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ecosystem-titles h3 {
+    margin: 2rem 0 0.5rem 0;
+}
+.ecosystem-titles p {
+    margin: 0.5rem 0 0 0;
+}
+
+.ecosystem-tarjetas {
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    padding: 3rem 0 3rem 0;
+}
+
+.ecosystem-tarjeta {
+    box-sizing: border-box;
+    padding: 2rem;
+    width: 17%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ecosystem-tarjeta img {
+    text-align: center;
+}
+
+.ecosystem-tarjeta:hover {
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.ecosystem-tarjeta p {
+    margin-top: 1rem;
+    font-size: 0.7rem;
+    text-align: center;
+    color: grey;
+}
+
+/* CLASE PARA APLICAR SOMBRA */ 
+.shadow-box {
+    box-shadow: rgba(137, 137, 137, 0.3) 0px 8px 20px 0px;
+    border-radius: 2rem;
+}
+
+/* oculta parrafos */
+
+#matching , #academy, #stations, #turing, #store {
+    display: none;
+    transition: 0.5s;
+}

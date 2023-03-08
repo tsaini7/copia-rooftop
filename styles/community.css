@@ -1,0 +1,28 @@
+.community {
+    display: flex;
+    margin: 10rem 6rem 3rem 6rem;
+}
+
+.community h2 {
+    margin-bottom: 3rem;
+    font-weight: bold;
+}
+.community h2 span {
+    color: var(--bg-btn-color);
+}
+
+
+.community-izquierda {
+
+    width: 50%;
+    padding: 1rem;
+}
+.community-derecha {
+    width: 50%;
+}
+
+.community-izquierda p {
+    margin-bottom: 3rem;
+}
+
+
